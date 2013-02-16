@@ -1,0 +1,8 @@
+[Desktop Entry]
+_Name=New Project
+_Comment=NewProject application
+Categories=GNOME;Utility;
+Exec=new-project
+Icon=new-project
+Terminal=false
+Type=Application
